@@ -1,0 +1,11 @@
+{
+  "name": "alpresul-test",
+  "version": "1.0.0",
+  "description": "alpresul-test",
+  "repositoryLayout": {
+    "formatVersion": 4,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/test/",
+    "tableContent": "true"
+  }
+}
