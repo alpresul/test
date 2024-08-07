@@ -5,7 +5,7 @@
   "repositoryLayout": {
     "formatVersion": 4,
     "format": "json",
-    "metaInformation": ".gctsmetadata/test/",
+    "metaInformation": ".gctsmetadata/test/test2/",
     "tableContent": "true"
   }
 }
