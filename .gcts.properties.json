@@ -4,7 +4,7 @@
   "description": "alpresul-test",
   "repositoryLayout": {
     "formatVersion": 4,
-    "format": "xml",
+    "format": "json",
     "metaInformation": ".gctsmetadata/",
     "tableContent": "true"
   }
